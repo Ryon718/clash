@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,cc3001.dmm.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,jp
+DOMAIN-KEYWORD,cc3001
 
 # IP段匹配
 #IP-CIDR,142.171.133.131/32,no-resolve
